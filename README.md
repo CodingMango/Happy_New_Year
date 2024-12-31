@@ -9,6 +9,8 @@ Here is the link to the simulation of the project in the Wokwi simulator: https:
 
 ![Arduino](https://github.com/user-attachments/assets/efabce20-d1b2-4ac9-aa62-51b22baf0c70)
 
+![Arduino](https://github.com/user-attachments/assets/602307d0-220f-445a-8e35-cd8ce86700f0)
+
 ![arduino](https://github.com/user-attachments/assets/17b209ac-3b70-48a6-8302-333b5e00cb46)
 
 Happy Learning :)
