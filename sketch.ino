@@ -22,28 +22,28 @@ void setup() {
   digitalWrite(G, HIGH);
   //starting Pattern
   digitalWrite(A,LOW);
-  delay(300);
+  delay(200);
   digitalWrite(A, HIGH);
   digitalWrite(B, LOW);
-  delay(300);
+  delay(200);
   digitalWrite(B, HIGH);
   digitalWrite(C, LOW);
-  delay(300);
+  delay(200);
   digitalWrite(C,HIGH);
   digitalWrite(D,LOW);
-  delay(300);
+  delay(200);
   digitalWrite(D,HIGH);
   digitalWrite(E,LOW);
-  delay(300);
+  delay(200);
   digitalWrite(E,HIGH);
   digitalWrite(F,LOW);
-  delay(300);
+  delay(200);
   digitalWrite(F,HIGH);
   digitalWrite(A,LOW);
-  delay(300);
+  delay(200);
   digitalWrite(A,HIGH);
   digitalWrite(G,LOW);
-  delay(300);
+  delay(200);
   digitalWrite(G,HIGH);
   //COUNTDOWN
   delay(1000);
@@ -150,6 +150,6 @@ void loop() {
   delay(100);
   lcd.print("******2024******");
   lcd.setCursor(0, 1);
-  delay(1500);
+  delay(1000);
   lcd.print("~~~~~~2025~~~~~~");
 }
